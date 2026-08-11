@@ -1,6 +1,6 @@
 # Hi, I'm Prasanna Kumar Das 👋
 
-### AI Automation & Data Analytics Professional | Founder @ RINDAX™ | Open to Work
+### AI Automation & Data Analytics Professional | n8n • Power BI • Excel | Founder @ RINDAX™ | Open to Work
 
 I'm an AI Automation & Data Analytics professional who helps modern businesses improve their operations through data, automation, and AI-powered solutions. My work combines data analysis, business reporting, and AI workflow automation to turn business data and repetitive processes into practical solutions.
 
@@ -8,12 +8,12 @@ I'm an AI Automation & Data Analytics professional who helps modern businesses i
 
 ## 🚀 About Me
 
-- 🏢 Founder of **[RINDAX™](https://rindax.com)** — AI Automation & Data Solutions, Guwahati, Assam, India
-- 🤖 I build end-to-end AI agents & automation workflows using **n8n**, **Claude AI**, **Airtable**, and **Gmail**
-- 📊 I create **Power BI dashboards**, **Excel models**, and **SQL-based** data solutions for business insights
-- 📦 Building **PayRemind** — a WhatsApp-based invoice reminder SaaS for Indian freelancers
-- ✍️ I blog at **[blog.rindax.com](https://blog.rindax.com)** about AI automation for small businesses
-- 💼 Open to **remote, flexible, project-based, or part-time** roles in AI Automation, Data Analytics & BI
+- 🤖 Build AI agents & automation workflows using **n8n**, **Claude AI**, **Airtable** & **Gmail**
+- 📊 Create **Power BI dashboards**, **Excel analytics** & **SQL-based** data solutions
+- 🧹 Analyze, clean and transform business data into actionable insights
+- 🏢 Founder of **[RINDAX™](https://rindax.com)**, providing AI Automation & Data Analytics solutions
+- 🚀 Build practical AI-powered business solutions for small businesses
+- 💼 Open to **remote, flexible, project-based** and **part-time** opportunities
 - 📍 Based in Assam, India
 
 ---
