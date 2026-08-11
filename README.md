@@ -1,18 +1,31 @@
 # Hi, I'm Prasanna Kumar Das 👋
 
-### AI Automation Consultant | Founder @ RINDAX | n8n · Claude AI · Airtable
+### AI Automation & Data Analytics Professional | Founder @ RINDAX™ | Open to Work
 
-I build production-ready AI automation systems for Indian SMBs, freelancers, and solopreneurs — helping them save time, reduce manual work, and grow faster using AI.
+I'm an AI Automation & Data Analytics professional who helps modern businesses improve their operations through data, automation, and AI-powered solutions. My work combines data analysis, business reporting, and AI workflow automation to turn business data and repetitive processes into practical solutions.
 
 ---
 
 ## 🚀 About Me
 
-- 🏢 Founder of **[RINDAX](https://rindax.com)** — AI Automation Agency based in Guwahati, Assam, India
-- 🤖 I build end-to-end AI agents using **n8n**, **Claude AI**, **Airtable**, and **Gmail**
+- 🏢 Founder of **[RINDAX™](https://rindax.com)** — AI Automation & Data Solutions, Guwahati, Assam, India
+- 🤖 I build end-to-end AI agents & automation workflows using **n8n**, **Claude AI**, **Airtable**, and **Gmail**
+- 📊 I create **Power BI dashboards**, **Excel models**, and **SQL-based** data solutions for business insights
 - 📦 Building **PayRemind** — a WhatsApp-based invoice reminder SaaS for Indian freelancers
 - ✍️ I blog at **[blog.rindax.com](https://blog.rindax.com)** about AI automation for small businesses
+- 💼 Open to **remote, flexible, project-based, or part-time** roles in AI Automation, Data Analytics & BI
 - 📍 Based in Assam, India
+
+---
+
+## 🎯 Core Areas
+
+| Data & Analytics | AI & Automation |
+|---|---|
+| 📊 Data Analysis & Business Reporting | 🤖 AI Workflow Automation |
+| 📈 Power BI Dashboards & Data Visualization | ⚙️ n8n & Business Process Automation |
+| 📋 Advanced Excel & Google Sheets | 🧠 AI Agents & Chatbots |
+| 🗄️ SQL & Data Extraction | 🔄 Data Cleaning & Transformation |
 
 ---
 
@@ -20,11 +33,13 @@ I build production-ready AI automation systems for Indian SMBs, freelancers, and
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Claude AI](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 
 ---
 
@@ -41,7 +56,24 @@ A collection of data analytics projects using Excel & Power BI — showcasing sk
 
 ---
 
+## 💼 Open To
+
+I'm open to opportunities where I can contribute as an:
+
+- **AI Automation Specialist**
+- **Data Analyst**
+- **BI Analyst**
+- **Automation Professional**
+
+Particularly in **remote, flexible, project-based, or part-time roles**.
+
+---
+
 ## 📬 Get In Touch
+
+I enjoy solving practical business problems by combining **data + automation + AI** — not just for the sake of technology, but for real business impact.
+
+Open to connecting with businesses, recruiters, professionals, and potential collaborators working in AI, automation, analytics, and digital transformation.
 
 - 🌐 Website: [rindax.com](https://rindax.com)
 - 📧 Email: prasannadas03@gmail.com
@@ -49,4 +81,4 @@ A collection of data analytics projects using Excel & Power BI — showcasing sk
 
 ---
 
-> *"Automation is not about replacing people — it's about giving them back their time."*
+> *"I enjoy solving practical business problems by combining data + automation + AI rather than using technology simply for the sake of technology."*
