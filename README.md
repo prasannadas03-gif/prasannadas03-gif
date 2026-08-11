@@ -45,7 +45,7 @@ I'm an AI Automation & Data Analytics professional who helps modern businesses i
 
 ## 📂 Featured Projects
 
-### 🤖 [RINDAX AI Automation Workflows](https://github.com/prasannadas03-gif/rindax-ai-workflows)
+### 🤖 [AI Automation Workflows](https://github.com/prasannadas03-gif/rindax-ai-workflows)
 Production-ready AI automation workflows built with n8n, Claude AI, Airtable, and Gmail.
 - 📱 Social Media Post Automation (Google Sheets → LinkedIn / Facebook / Instagram)
 - 📡 RSS Feed → Social Media Pipeline (zero manual input)
