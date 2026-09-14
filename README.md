@@ -1,6 +1,6 @@
 # Hi, I'm Prasanna Kumar Das 👋
 
-### AI Automation & Workflow Engineer | n8n Specialist | AI Agents | LLM Integration | Data Analytics | Open to Work
+### AI Automation & Workflow Engineer | n8n Specialist | AI Agents | LLM Integration | Data Analytics
 
 I'm an AI Automation & Data Analytics professional who helps modern businesses improve their operations through data, automation, and AI-powered solutions. My work combines data analysis, business reporting, and AI workflow automation to turn business data and repetitive processes into practical solutions.
 
