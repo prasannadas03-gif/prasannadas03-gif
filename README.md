@@ -1,6 +1,6 @@
 # Hi, I'm Prasanna Kumar Das 👋
 
-### AI Automation & Workflow Engineer | n8n Specialist | AI Agents | LLM Integration | Data Analytics
+### AI Automation & Workflow Engineer | n8n Specialist | AI Agents | Python + SQL | Data Analytics
 
 I'm an AI Automation & Data Analytics professional who helps modern businesses improve their operations through data, automation, and AI-powered solutions. My work combines data analysis, business reporting, and AI workflow automation to turn business data and repetitive processes into practical solutions.
 
@@ -9,6 +9,7 @@ I'm an AI Automation & Data Analytics professional who helps modern businesses i
 ## 🚀 About Me
 
 - 🤖 Build AI agents & automation workflows using **n8n**, **Claude AI**, **Airtable** & **Gmail**
+- 🐍 Build **Python + MySQL** data pipelines and **Streamlit** dashboards
 - 📊 Create **Power BI dashboards**, **Excel analytics** & **SQL-based** data solutions
 - 🧹 Analyze, clean and transform business data into actionable insights
 - 🏢 Founder of **[RINDAX™](https://rindax.com)**, providing AI Automation & Data Analytics solutions
@@ -25,17 +26,20 @@ I'm an AI Automation & Data Analytics professional who helps modern businesses i
 | 📊 Data Analysis & Business Reporting | 🤖 AI Workflow Automation |
 | 📈 Power BI Dashboards & Data Visualization | ⚙️ n8n & Business Process Automation |
 | 📋 Advanced Excel & Google Sheets | 🧠 AI Agents & Chatbots |
-| 🗄️ SQL & Data Extraction | 🔄 Data Cleaning & Transformation |
+| 🗄️ SQL, MySQL & Data Extraction | 🔄 Data Cleaning & Transformation |
+| 🐍 Python Data Pipelines & Dashboards | 🔗 API Integrations |
 
 ---
 
 ## 🛠️ Tech Stack
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Claude AI](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
@@ -45,11 +49,17 @@ I'm an AI Automation & Data Analytics professional who helps modern businesses i
 
 ## 📂 Featured Projects
 
-### 🤖 [AI Automation Workflows](https://github.com/prasannadas03-gif/ai-automation-workflows)
-Production-ready AI automation workflows built with n8n, Claude AI, Airtable, and Gmail.
+### 🐍 [Customer Data Pipeline (Python + MySQL)](https://github.com/prasannadas03-gif/AI-Automation-Workflows/tree/main/customer-data-pipeline)
+A Python and SQL pipeline that loads synthetic e-commerce data into a cloud MySQL database, reports revenue trends, top customers, category and city performance, and repeat-customer rate using SQL joins and aggregations, with a Streamlit dashboard on top.
+- 🔗 [Live dashboard](https://python-mysql-sample-dashboard.streamlit.app) (read-only, synthetic data)
+- 🧰 Python · MySQL 8.4 · mysql-connector-python · Streamlit · pandas
+
+### 🤖 [AI Automation Workflows](https://github.com/prasannadas03-gif/AI-Automation-Workflows)
+Production-ready AI automation workflows built with n8n, Claude AI, Gemini, Airtable, Supabase, and Gmail.
 - 📱 Social Media Post Automation (Google Sheets → LinkedIn / Facebook / Instagram)
 - 📡 RSS Feed → Social Media Pipeline (zero manual input)
-- 🧠 Autonomous CRM Outreach Agent (Claude Sonnet + Airtable + Gmail)
+- 🧠 Autonomous CRM Outreach Agent (Claude + Airtable + Gmail)
+- 📚 Enterprise Knowledge Base RAG and Multi-Tenant WhatsApp AI Agent (Supabase pgvector + Gemini)
 
 ### 📊 [Data Analytics Portfolio](https://github.com/prasannadas03-gif/Data-analytics-portfolio)
 A collection of data analytics projects using Excel & Power BI — showcasing skills in data cleaning, visualization, and business insights.
